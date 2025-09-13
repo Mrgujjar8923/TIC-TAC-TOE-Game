@@ -110,4 +110,3 @@ Players can reset or start a new game anytime.
 👨‍💻 Author
 Developed by Priyanshu ✨
 
-If you like this project, don’t forget to ⭐ the repo!
