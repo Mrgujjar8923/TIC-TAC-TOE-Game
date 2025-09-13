@@ -72,10 +72,21 @@ Winner or draw message is displayed in .msg-container.
 Players can reset or start a new game anytime.
 
 📸 Screenshots
-<img width="735" height="808" alt="image" src="https://github.com/user-attachments/assets/fc4fefc3-012d-40be-9903-1645b9c6bc1d" />
-<img width="700" height="785" alt="image" src="https://github.com/user-attachments/assets/dfa6d2cd-7b9b-4ecd-9020-1f2088bd021b" />
-<img width="799" height="413" alt="image" src="https://github.com/user-attachments/assets/794422f6-6caa-45c8-b80a-00b5261d91e7" />
-<img width="750" height="466" alt="image" src="https://github.com/user-attachments/assets/df723b8d-6376-46ee-9822-a776a7a2a252" />
+
+## 📸 Screenshots  
+
+### Game Board
+<img src="https://github.com/user-attachments/assets/fc4fefc3-012d-40be-9903-1645b9c6bc1d" width="600" alt="Game Board Screenshot" />
+
+### Winner Announcement
+<img src="https://github.com/user-attachments/assets/dfa6d2cd-7b9b-4ecd-9020-1f2088bd021b" width="600" alt="Winner Message Screenshot" />
+
+### Game in Progress
+<img src="https://github.com/user-attachments/assets/794422f6-6caa-45c8-b80a-00b5261d91e7" width="700" alt="Game In Progress Screenshot" />
+
+### Reset/New Game Options
+<img src="https://github.com/user-attachments/assets/df723b8d-6376-46ee-9822-a776a7a2a252" width="650" alt="Reset and New Game Screenshot" />
+
 
 🔮 Future Improvements
 🎨 Add animations for winning lines.
