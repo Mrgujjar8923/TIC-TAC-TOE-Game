@@ -87,7 +87,7 @@ Players can reset or start a new game anytime.
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/794422f6-6caa-45c8-b80a-00b5261d91e7" width="350" alt="Game In Progress Screenshot" />
-      <br/><sub>\Winner Announcement</sub>
+      <br/><sub>Winner Announcement</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/df723b8d-6376-46ee-9822-a776a7a2a252" width="350" alt="Reset and New Game Screenshot" />
